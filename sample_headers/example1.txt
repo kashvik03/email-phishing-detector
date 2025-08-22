@@ -1,0 +1,12 @@
+Return-Path: <spoofed@malicious.com>
+Received: from mail.example.com (mail.example.com. [203.0.113.5])
+        by mx.google.com with ESMTPS id abc123;
+        Thu, 15 Aug 2025 10:00:00 -0700 (PDT)
+Received: from unknown (HELO workstation) ([192.0.2.1])
+        by mail.example.com with ESMTPA;
+        Thu, 15 Aug 2025 09:59:00 -0700
+From: "John Doe" <john.doe@example.com>
+To: victim@example.org
+Subject: Important Update
+Date: Thu, 15 Aug 2025 09:58:00 -0700
+Message-ID: <abc123@mail.example.com>
